@@ -5,7 +5,7 @@ function Alphabet(options) {
     this._start = 'a';
     this._end = 'z';
     this._curr = this._start.charCodeAt(0);
-};
+}
 
 Alphabet.prototype = Object.create(stream.Readable.prototype);
 Alphabet.prototype.constructor = Alphabet;
