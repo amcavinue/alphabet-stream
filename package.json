@@ -1,0 +1,19 @@
+{
+  "name": "alphabet-stream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amcavinue/alphabet-stream.git"
+  },
+  "author": "Aaron McAvinue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amcavinue/alphabet-stream/issues"
+  },
+  "homepage": "https://github.com/amcavinue/alphabet-stream#readme"
+}
